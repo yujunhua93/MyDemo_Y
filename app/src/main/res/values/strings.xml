@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">MyDemo_Y</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="home_tab">首页</string>
+    <string name="cate_tab">分类</string>
+    <string name="social_tab">美食指南</string>
+    <string name="shopping_tab">购物车</string>
+    <string name="my_tab">我的果园</string>
+</resources>
